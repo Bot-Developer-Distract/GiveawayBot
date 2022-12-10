@@ -1,8 +1,9 @@
 {
-    "TOKEN": "TOKEN HERE",
-    "CLIENTID": "CLIENT ID HERE",
-    "PREFIX": "PREFIX HERE",
+    "TOKEN": "OTU2NDE3NTU0NTM5MjQ1NTg4.GVF1fH.JLl7oitjcv8V9QZVUBnCiZ4MP1-Kbhr9E7edRc",
+    "DbURL": "mongodb+srv://Elitex:Fusuacs67@cluster0.uh9go.mongodb.net/gawtest?retryWrites=true&w=majority",
+    "CLIENTID": "956417554539245588",
+    "PREFIX": ".",
     "OWNER": [
-        "OWNER ID HERE"
+        "767383867031945236"
     ]
 }
